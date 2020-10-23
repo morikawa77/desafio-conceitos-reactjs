@@ -9,13 +9,14 @@ body {
 }
 
 div {
-  width: 100%;
+  width: 350px;
   margin: 20px;
 }
 
 div li {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 div li + li {
@@ -31,9 +32,26 @@ button {
   margin-top: 15px;
   font-weight: bold;
   font-size: 14px;
+  width: 350px;
 }
 
 div li button {
-  margin: 0 15px;
+  margin: 0;
   background: #ca4949;
+  width: 100px;
 }
+
+a, a:hover, a:active, a:link, a:visited {
+  color: #000;
+  font-weight: bold;
+  display: contents;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
