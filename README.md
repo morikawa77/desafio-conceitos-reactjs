@@ -30,7 +30,7 @@ Remove a repository from your API: For each item on your list, you must have a b
 - **`should be able to remove repository`**: In order for this test to pass, your application must allow the item to be removed from the list by clicking on the remove button that will be inside the LI of the added repository.
 
 ### Layout adjustments
-<img alt="GoStack" src=".github/header-desafios-new.png" style="width: 100%;"/>
+<img alt="GoStack" src=".github/frontend-layout-adjustments.png" style="width: 100%;"/>
 I changed some layout items to better display the content and improve UX.
 
 ---
